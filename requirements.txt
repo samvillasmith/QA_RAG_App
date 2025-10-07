@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pandas 
+numpy
+tiktoken
+pypdf
+ipykernel
+langchain
