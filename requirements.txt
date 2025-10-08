@@ -8,3 +8,4 @@ ipykernel
 langchain
 langchain-community
 docx2txt
+wikipedia
