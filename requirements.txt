@@ -6,3 +6,5 @@ tiktoken
 pypdf
 ipykernel
 langchain
+langchain-community
+docx2txt
