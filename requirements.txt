@@ -7,6 +7,8 @@ pypdf
 ipykernel
 langchain
 langchain-community
+langchain_pinecone
+langchain_openai
 docx2txt
 wikipedia
 pinecone
